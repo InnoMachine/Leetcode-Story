@@ -1,5 +1,5 @@
 package SingleNumber;
-public class Solution {
+public class MySolution {
 	public static int singleNumber(int a[]){
 		
 		for(int i = 1; i < a.length; i ++){//make the first integer be the test number
