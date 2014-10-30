@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author puppy
+ *
+ */
+package SingleNumber;
